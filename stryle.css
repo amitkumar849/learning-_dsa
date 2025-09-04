@@ -1,0 +1,30 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width:60vw;
+    height: 60vh;
+    background: blue;
+    align-items: center;
+}
+.nav{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+   background:black;
+}
+nav{
+    padding: 1rem;
+    background-color: red;
+    border: 2px solid black
+    
+}
+.home{
+    text-align: center;
+    color: blue;
+    display:flex;
+    width:65vw;
+    height: 3rem;
+}
