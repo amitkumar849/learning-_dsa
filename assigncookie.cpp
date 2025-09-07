@@ -22,3 +22,4 @@ int main() {
     std::cout << findContentChildren(g, s) << std::endl;
     return 0;
 }
+// chec git 
